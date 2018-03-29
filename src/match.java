@@ -7,6 +7,7 @@ public class match {
 		
 		
 		inning1.overs[0].add_runs_to_over(1, 6);
+		
 		inning1.overs[0].add_runs_to_over(2, 2);
 		inning1.overs[0].add_runs_to_over(3, 5);
 		inning1.overs[0].add_runs_to_over(4, 2);
