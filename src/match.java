@@ -27,7 +27,6 @@ public class match {
 		
 		System.out.println("score on 1st over 3rd ball is "+inning1.overs[0].get_run_per_ball(3));
 		
-		
 		System.out.println("score of 2nd over "+inning1.get_score_per_over(1));
 	}
 
